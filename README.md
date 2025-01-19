@@ -4,7 +4,7 @@ TRM is a neural framework for understanding text through multiple semantic "freq
 
 ## 🌟 Key Features
 
-TRM introduces several innovative approaches to text understanding:
+TRM introduces several interesting approaches to text understanding:
 
 - **Multiple Thematic Projections**: Rather than forcing all semantic information through a single embedding space, TRM projects text into multiple specialized semantic spaces, each tuned to different aspects of meaning.
 
