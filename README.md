@@ -25,7 +25,7 @@ pip install trm-neural
 For development installation with additional tools:
 
 ```bash
-git clone https://github.com/yourusername/trm.git
+git clone https://github.com/rapuckett/trm.git
 cd trm
 pip install -e ".[dev]"
 ```
